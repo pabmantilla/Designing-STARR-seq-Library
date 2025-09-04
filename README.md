@@ -1,2 +1,8 @@
 # Designing-STARR-seq-Library
 Designing STARR-seq library to explore the regulatory background. 
+
+## Oricle model
+Oricle model is the distilled student DeepSTARR model. This model was distilled from 10 [EvoAug](https://github.com/aduranu/evoaug) DeepSTARR models with different initializations. 
+
+
+
