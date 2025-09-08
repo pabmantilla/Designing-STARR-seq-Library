@@ -12,5 +12,7 @@ Analysis of the Oracle (Student) model was done with [tangermeme](https://github
 ```
 pip install tangermeme
 ```
-
-
+Composite enhancer search was done with [CEseek](https://github.com/Jingyu-Fan/CEseek/tree/main). If performing search, be sure to:
+```
+pip install ceseek
+```
